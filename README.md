@@ -7,7 +7,7 @@
 
 ## 🎯 Objetivo  
 
-Este projeto é uma **reescrita em Java** de um script originalmente em [Shell](https://github.com/ruan89cf/mp4_to_hls_old), criado para **automatizar a codificação de vídeos** usando FFmpeg.  
+Este projeto é uma **reescrita em Java** de um script originalmente em [Shell](https://github.com/ruan89cf/mp4_to_hls_old), criado por mim para **automatizar a codificação de vídeos** usando FFmpeg. O intuito desse projeto é recria-lo agora em Java pensando em aplicar meu conhecimento. 
 
 A migração para Java tem como principal motivação o **aprendizado da linguagem**, servindo como um projeto prático para explorar conceitos como:  
 ✅ Orientação a Objetos  
