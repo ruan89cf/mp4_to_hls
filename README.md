@@ -1,6 +1,6 @@
 # 🎥 Video Encoder-Java - MP4 para HLS  
 
-**🛠 Status**: Em Desenvolvimento  
+**🛠 Status**: EEm Desenvolvimento  
 **👤 Autor**: Ruan  
 
 ---
